@@ -1,0 +1,64 @@
+body {
+  background-color: #ffffff;
+  font-size: 1.2em;
+}
+.ui.menu .item img.logo {
+  margin-right: 1.5em;
+}
+.main.container {
+  margin-top: 7em;
+}
+.wireframe {
+  margin-top: 2em;
+}
+.ui.footer.segment {
+  margin: 5em 0em 0em;
+  padding: 5em 0em;
+}
+
+.ui.card,
+.ui.cards > .card {
+  width: 350px;
+}
+
+s.ui.dropdown .menu > .item .dropdown.icon {
+  position: absolute;
+  right: 10px;
+}
+
+.status-icon i.huge {
+  font-size: 2.4em;
+}
+
+.status-text {
+  margin-top: 0.25em;
+  font-size: 0.9em;
+}
+
+.date {
+  margin-top: 0em;
+  margin-bottom: 0.3em;
+  font-size: 1.9em;
+  font-weight: 700;
+  line-height: 1em;
+}
+.time {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 0em;
+}
+.timezone {
+  font-size: 0.5em;
+  color: rgba(0, 0, 0, 0.4);
+  margin-right: 0.5em;
+}
+.ui.cards > .card .meta {
+  font-size: 0.9em;
+}
+.ui.list > .item > .icon + .content {
+  width: unset;
+  line-height: 1.4em;
+}
+.skills .icon {
+  width: 1.8em;
+}
